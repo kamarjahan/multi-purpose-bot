@@ -1,3 +1,11 @@
+# get file trans must
+# credit must [ https://github.com/kamarjahan ]
+# copyright by t.me/devourdevils
+# all codes are free to use
+
+
+
+
 import logging
 from pyrogram.errors import InputUserDeactivated, UserNotParticipant, FloodWait, UserIsBlocked, PeerIdInvalid
 from imdb import IMDb
