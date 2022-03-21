@@ -1,7 +1,8 @@
 #get out t.me/devourdevils
 # github.com/devourdevils
 
-
+import re
+from os import environ
 
 class Translation(object):
     START_TEXT = """hi"""
